@@ -1,0 +1,384 @@
+--- Thu Feb 26 16:02:01 EST 2026 ---
+ 16:02:01 up  1:18,  1 user,  load average: 0.32, 0.25, 0.32
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1894         172          41        1352        1460
+Swap:           3546         244        3302
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:03:01 EST 2026 ---
+ 16:03:01 up  1:19,  1 user,  load average: 0.32, 0.25, 0.32
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1868         218          41        1339        1486
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:04:01 EST 2026 ---
+ 16:04:01 up  1:20,  1 user,  load average: 0.25, 0.25, 0.31
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1869         215          40        1338        1485
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:05:02 EST 2026 ---
+ 16:05:02 up  1:21,  1 user,  load average: 0.09, 0.20, 0.29
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1866         218          40        1338        1488
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:06:01 EST 2026 ---
+ 16:06:01 up  1:22,  1 user,  load average: 0.62, 0.33, 0.33
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1867         217          40        1338        1487
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:07:01 EST 2026 ---
+ 16:07:01 up  1:23,  1 user,  load average: 0.23, 0.27, 0.30
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1874         207          40        1340        1480
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:08:01 EST 2026 ---
+ 16:08:01 up  1:24,  1 user,  load average: 0.38, 0.31, 0.31
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1877         204          40        1340        1477
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:09:01 EST 2026 ---
+ 16:09:01 up  1:25,  1 user,  load average: 0.33, 0.30, 0.31
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1877         204          40        1340        1477
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:10:01 EST 2026 ---
+ 16:10:01 up  1:26,  1 user,  load average: 0.53, 0.34, 0.32
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1877         203          40        1341        1477
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:11:01 EST 2026 ---
+ 16:11:01 up  1:27,  1 user,  load average: 0.78, 0.40, 0.34
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1880         200          40        1341        1474
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:12:01 EST 2026 ---
+ 16:12:01 up  1:28,  1 user,  load average: 0.78, 0.48, 0.36
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1892         186          40        1342        1462
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:13:01 EST 2026 ---
+ 16:13:01 up  1:29,  1 user,  load average: 0.29, 0.39, 0.34
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1892         186          40        1342        1462
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:14:01 EST 2026 ---
+ 16:14:01 up  1:30,  1 user,  load average: 0.72, 0.51, 0.39
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1893         185          40        1342        1462
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:15:01 EST 2026 ---
+ 16:15:01 up  1:31,  1 user,  load average: 0.51, 0.50, 0.39
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1894         184          40        1342        1460
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:16:01 EST 2026 ---
+ 16:16:01 up  1:32,  1 user,  load average: 0.19, 0.41, 0.36
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1894         184          40        1343        1460
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:17:01 EST 2026 ---
+ 16:17:01 up  1:33,  1 user,  load average: 0.07, 0.34, 0.34
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1905         171          40        1344        1449
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:18:01 EST 2026 ---
+ 16:18:01 up  1:34,  1 user,  load average: 0.08, 0.29, 0.32
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1905         171          40        1344        1449
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:19:01 EST 2026 ---
+ 16:19:01 up  1:35,  1 user,  load average: 0.03, 0.23, 0.30
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1905         171          40        1344        1449
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:20:01 EST 2026 ---
+ 16:20:01 up  1:36,  1 user,  load average: 0.01, 0.19, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1905         171          40        1344        1449
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:21:01 EST 2026 ---
+ 16:21:01 up  1:37,  1 user,  load average: 0.15, 0.18, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1905         171          40        1344        1449
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:22:02 EST 2026 ---
+ 16:22:02 up  1:38,  1 user,  load average: 0.18, 0.20, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1916         157          40        1346        1438
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:23:02 EST 2026 ---
+ 16:23:02 up  1:39,  1 user,  load average: 0.37, 0.26, 0.28
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1917         156          40        1346        1437
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:24:01 EST 2026 ---
+ 16:24:01 up  1:40,  1 user,  load average: 0.15, 0.21, 0.26
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1914         158          40        1346        1440
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
+--- Thu Feb 26 16:25:01 EST 2026 ---
+ 16:25:01 up  1:41,  1 user,  load average: 0.36, 0.25, 0.27
+               total        used        free      shared  buff/cache   available
+Mem:            3355        1913         160          40        1346        1441
+Swap:           3546         246        3300
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           672M  2.1M  669M   1% /run
+/dev/sda2        20G   10G  8.6G  54% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.7G  4.1M  1.7G   1% /tmp
+tmpfs           336M  100K  336M   1% /run/user/1000
+/dev/sr1        5.4G  5.4G     0 100% /media/dev-onboarding-ljf24/Ubuntu 25.10 amd64
+/dev/sr0        102M  102M     0 100% /media/dev-onboarding-ljf24/CDROM
